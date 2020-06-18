@@ -19,7 +19,7 @@ class LoggerService {
         	level: 'error'
         }),
         new winston.transports.File({
-          filename: `./server.log`,
+          filename: `./app.log`,
           level: 'error'
         })
       ],

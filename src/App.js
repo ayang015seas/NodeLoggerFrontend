@@ -22,8 +22,10 @@ const App = () => {
 
 		for (var record in response) {
 			console.log(response[record])
-			usersData.push({id: number, name: 'Error', username: response[record]});
-			number++;
+			if (response[record].length > 5) {
+				usersData.push({id: number, name: 'Error', username: response[record]});
+				number++;
+			}
 		}
 	    // usersData.push({id: 4, name: res.data, username: res.data})
 		// console.log(res.data);
