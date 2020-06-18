@@ -12,3 +12,4 @@
 {"level":"error","message":"[2020-06-16T14:58:23.326990857Z]--CRITICAL--InstanceDown/192.168.108.13:8080 192.168.108.13:8080 of job custom has been down for more than 1 minute."}
 {"level":"error","message":"[2020-06-16T14:58:23.326990857Z]--CRITICAL--InstanceDown/192.168.108.13:8080 192.168.108.13:8080 of job custom has been down for more than 1 minute."}
 {"level":"error","message":"[2020-06-16T14:58:23.326990857Z]--CRITICAL--InstanceDown/192.168.108.13:8080 192.168.108.13:8080 of job custom has been down for more than 1 minute."}
+{"level":"error","message":"[2020-06-16T14:58:23.326990857Z]--CRITICAL--InstanceDown/192.168.108.13:8080 192.168.108.13:8080 of job custom has been down for more than 1 minute."}
