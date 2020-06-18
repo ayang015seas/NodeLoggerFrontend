@@ -1,0 +1,4 @@
+  
+{"level":"error","message":"\"[2020-06-17T21:03:08.326990857Z]--CRITICAL--InstanceDown/192.168.108.13:8080 192.168.108.13:8080 of job custom has been down for more than 1 minute.\""}
+{"level":"error","message":"\"[2020-06-17T21:03:08.326990857Z]--CRITICAL--InstanceDown/192.168.108.13:9100 192.168.108.13:9100 of job node has been down for more than 1 minute.\""}
+{"level":"error","message":"\"[2020-06-17T21:03:08.326990857Z]--CRITICAL--Instan ceDown/192.168.108.13:9100 192.168.108.13:9100 of job node has been down for more than 1 minute.\""}
